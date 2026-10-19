@@ -1,0 +1,22 @@
+PU1 2026-10-19 23:03:38.20
+C:\Users\KSJ\gpu_unlock_win\venv-torch\Lib\site-packages\torch\_subclasses\functional_tensor.py:307: UserWarning: Failed to initialize NumPy: No module named 'numpy' (Triggered internally at C:\actions-runner\_work\pytorch\pytorch\pytorch\torch\csrc\utils\tensor_numpy.cpp:84.)
+  cpu = _conversion_method_template(device=torch.device("cpu"))
+NVIDIA GeForce RTX 3090
+FP32     25.79 TFLOPS
+FP16T   111.04 TFLOPS
+BF16T   117.05 TFLOPS
+--- round3 GPU0 2026-10-19 23:03:42.18
+C:\Users\KSJ\gpu_unlock_win\venv-torch\Lib\site-packages\torch\_subclasses\functional_tensor.py:307: UserWarning: Failed to initialize NumPy: No module named 'numpy' (Triggered internally at C:\actions-runner\_work\pytorch\pytorch\pytorch\torch\csrc\utils\tensor_numpy.cpp:84.)
+  cpu = _conversion_method_template(device=torch.device("cpu"))
+NVIDIA GeForce RTX 3090
+FP32     24.92 TFLOPS
+FP16T   112.79 TFLOPS
+BF16T   116.67 TFLOPS
+--- round3 GPU1 2026-10-19 23:03:46.22
+C:\Users\KSJ\gpu_unlock_win\venv-torch\Lib\site-packages\torch\_subclasses\functional_tensor.py:307: UserWarning: Failed to initialize NumPy: No module named 'numpy' (Triggered internally at C:\actions-runner\_work\pytorch\pytorch\pytorch\torch\csrc\utils\tensor_numpy.cpp:84.)
+  cpu = _conversion_method_template(device=torch.device("cpu"))
+NVIDIA GeForce RTX 3090
+FP32     25.63 TFLOPS
+FP16T   112.79 TFLOPS
+BF16T   116.96 TFLOPS
+===== V5 AB DONE 2026-10-19 23:03:50.21 : Strata is about to come back =====
